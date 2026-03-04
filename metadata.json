@@ -1,0 +1,5 @@
+{
+  "name": "Mental Health Companion",
+  "description": "An AI-powered mental health ally providing chat support, mood tracking, and mindfulness resources.",
+  "requestFramePermissions": ["microphone"]
+}
